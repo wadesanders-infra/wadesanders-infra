@@ -4,4 +4,4 @@ IT support and endpoint administration. CompTIA A+, Network+, Security+ (DoD 857
 
 I run the IT and security infrastructure for a land development company, built from scratch after a job-site equipment theft exposed the cost of having none: segmented network on Cisco ASA, greenfield Active Directory, domain-joined endpoints, and a documented path to SIEM, hybrid identity, and a NIST-aligned security program.
 
-Start here: jssandersllc-infra documents the whole build: architecture decision records, session journals that include the failures, and SOPs written after real mistakes.
+Start here: [jssandersllc-infra](https://github.com/wadesanders-infra/jssandersllc-infra) documents the whole build: architecture decision records, session journals that include the failures, and SOPs written after real mistakes.
